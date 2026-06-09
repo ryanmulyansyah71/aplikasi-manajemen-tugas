@@ -1,8 +1,8 @@
-# Aplikasi Manajemen Tugas (Task Management Web App)
+Aplikasi Manajemen Tugas (Task Management Web App)
 
 Aplikasi manajemen tugas berbasis web yang responsif, dirancang untuk membantu pengguna menyusun, melacak, dan mengelola daftar pekerjaan harian mereka agar lebih produktif.
 
-Live Demo Aplikasi Klik Di Sini
+Live Demo Aplikasi Klik Di Sini https://ryanmulyansyah71.github.io/aplikasi-manajemen-tugas/
 
 
 # Fitur Utama
@@ -12,12 +12,10 @@ Live Demo Aplikasi Klik Di Sini
 * Desain Responsif: Tampilan web yang rapi dan nyaman dilihat, baik melalui komputer maupun smartphone.
 
 
-
 # Teknologi Yang Digunakan
 * HTML5: Membuat struktur dasar, form input, dan area daftar tugas.
 * CSS3: Mengatur tata letak modern menggunakan Flexbox, serta memberikan animasi visual yang halus.
 * JavaScript: Menangani logika manipulasi DOM (Data Object Model), pengolahan data array, dan integrasi API LocalStorage.
-
 
 
 # Apa Yang Saya Pelajari dari Proyek Ini?
